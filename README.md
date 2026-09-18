@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=e3b341&center=true&vCenter=true&width=900&height=44&lines=An%20entrepreneurial%20mind%20coding%20the%20future%20with%20a%20philosopher's%20soul;An%20ADHD%20dude%20solving%20Problems%20through%20AI%20assisted%20develeopment" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=e3b341&center=true&vCenter=true&width=900&height=44&lines=An%20entrepreneurial%20mind%20coding%20the%20future%20with%20a%20philosopher's%20soul;An%20ADHD%20dude%20solving%20problems%20through%20AI%20assisted%20develeopment" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
